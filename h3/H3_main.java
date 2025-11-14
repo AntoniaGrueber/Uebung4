@@ -4,7 +4,8 @@ public class H3_main {
 public static void main (String[] args) {
 	float celsiusFloat=14.2f;
 	float fahrenheitFloat;
-	double celsiusDouble = celsiusFloat;
+	double celsiusDouble = 14.2;
+	//double celsiusDoubleFromFloat= celsiusFloat;
 	double fahrenheitDouble;
 	
 	fahrenheitFloat= celsiusFloat*(9f/5f)+32f;
